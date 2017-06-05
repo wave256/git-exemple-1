@@ -7,5 +7,5 @@
 		<li>Punt 3</li>
 		<li>Punt 4</li>
 	</ul>
-	<p>I ja està-</p>
+	<p>I ja està. Això és tot.</p>
 </div>
